@@ -1,1 +1,1 @@
-# -event-streaming-clickstream
+# event-streaming-clickstream
